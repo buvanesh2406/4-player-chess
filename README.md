@@ -64,7 +64,7 @@ This project implements the rules that matter for a genuinely playable game, wit
 1. Push this repo to GitHub.
 2. Go to **Settings → Pages**.
 3. Under **Build and deployment**, choose **Deploy from a branch**, select your default branch and the `/ (root)` folder.
-4. Save — your game will be live at `https://<your-username>.github.io/<repo-name>/` within a minute or two.
+4. Save — your game will be live at `https://buvanesh2406.github.io/4-player-chess/` within a minute or two.
 
 ## License
 
